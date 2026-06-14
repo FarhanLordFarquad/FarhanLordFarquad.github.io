@@ -25,5 +25,10 @@ li {
 Background-color: #FA75D5;
 color: #16EBFA;
 }
+h1 {
+  border-radius: 12px;
+  padding: 15px;
+  display: inline-block; /* Shrinks the background to fit the text */
+}
 
 
