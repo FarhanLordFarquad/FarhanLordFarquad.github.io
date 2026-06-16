@@ -4,7 +4,10 @@ Body {
 	max-width: 600px;
 	margin: auto;
 }
-
+p {
+Background-color: #FA75D5;
+color: #16EBFA;
+}
 h1 {
 Background-color: #FA75D5;
 color: #16EBFA;
