@@ -49,7 +49,7 @@ h4 {
   display: inline-block; /* Shrinks the background to fit the text */
 }
 p {
-  border-radius: 5px;
-  padding: 5px;
+  border-radius: 6px;
+  padding: 8px;
   display: inline-block; /* Shrinks the background to fit the text */
 }
