@@ -53,3 +53,6 @@ p {
   padding: 8px;
   display: inline-block; /* Shrinks the background to fit the text */
 }
+.side-image {
+  float: left			
+}
