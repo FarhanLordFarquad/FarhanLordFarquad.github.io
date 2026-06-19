@@ -52,3 +52,8 @@ p {
   border-radius: 6px;
   padding: 8px;
   display: inline-block; /* Shrinks the background to fit the text */
+ {
+  border-radius: 10px;
+  padding: 10px;
+  display: inline-block; /* Shrinks the background to fit the text */
+}
