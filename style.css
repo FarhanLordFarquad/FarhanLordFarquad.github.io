@@ -60,18 +60,13 @@ p {
 .smooth-link {
   /* Padding creates the "block" space around the text */
   padding: 10px 20px; 
-  
-  /* Smoothly rounds the corners */
+  /*Rounds the corners */
   border-radius: 8px; 
-  
-  /* Makes the link look like a block */
+  /* Links look like a block */
   display: inline-block; 
-  
-  /* Colors and effects */
   background-color: #F595DA;
   color: #16EBFA;
   text-decoration: none;
-  
   /* 'transition' ensures the hover effect animates smoothly */
   transition: background-color 0.3s ease, transform 0.2s ease;
 }
