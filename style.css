@@ -57,7 +57,7 @@ p {
   padding: 10px;
   display: inline-block; /* Shrinks the background to fit the text */
 }
-.smooth-link {
+smooth-link {
   /* Padding creates the "block" space around the text */
   padding: 10px 20px; 
   /*Rounds the corners */
@@ -69,10 +69,4 @@ p {
   text-decoration: none;
   /* 'transition' ensures the hover effect animates smoothly */
   transition: background-color 0.3s ease, transform 0.2s ease;
-}
-
-/* Optional: Adds a nice hover effect */
-.smooth-link:hover {
-  background-color: #0056b3;
-  transform: translateY(-2px); /* Gives it a slight "lift" */
 }
